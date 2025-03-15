@@ -1,5 +1,3 @@
-# dcgan.py
-
 # DCGAN Implementation
 
 This repository contains an implementation of Deep Convolutional Generative Adversarial Networks (DCGAN) based on the paper **"Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks"** by Radford et al.
